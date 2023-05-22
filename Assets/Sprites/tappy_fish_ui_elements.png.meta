@@ -120,13 +120,13 @@ TextureImporter:
       name: background
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 512
-        width: 700
-        height: 1231
+        width: 698
+        height: 1228
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 0, z: 0, w: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -159,7 +159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tappyfish1
+      name: tappyfish_1
       rect:
         serializedVersion: 2
         x: 2005
@@ -285,7 +285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tappyfish_
+      name: tappyfish_3
       rect:
         serializedVersion: 2
         x: 2005
@@ -508,9 +508,9 @@ TextureImporter:
       tappy_fish_ui_elements_8: 506694303
       tappy_fish_ui_elements_9: 825761795
       tappyfish: 1134016537
-      tappyfish1: 1107521147
-      tappyfish_: -250758847
+      tappyfish_1: 1107521147
       tappyfish_2: -1985269079
+      tappyfish_3: -250758847
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
