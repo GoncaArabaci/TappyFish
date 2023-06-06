@@ -180,7 +180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tappy_fish_ui_elements_5
+      name: bronz_medal
       rect:
         serializedVersion: 2
         x: 1454
@@ -201,7 +201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tappy_fish_ui_elements_6
+      name: gold_medal
       rect:
         serializedVersion: 2
         x: 1745
@@ -243,7 +243,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tappy_fish_ui_elements_12
+      name: silver_medal
       rect:
         serializedVersion: 2
         x: 1457
@@ -264,7 +264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tappy_fish_ui_elements_13
+      name: metal_medal
       rect:
         serializedVersion: 2
         x: 1752
@@ -486,25 +486,25 @@ TextureImporter:
     nameFileIdTable:
       background: -1747204768
       block: 967592470
+      bronz_medal: -1172403051
       gameover: 2090714372
       getready: 827573999
+      gold_medal: 1474659787
       hintpanel: -578011340
       land: -271109258
+      metal_medal: -400219427
       new: 515585630
       restart: 449167488
       scorepanel: -325730090
+      silver_medal: 2105566018
       tappy_fish_ui_elements_10: 1009491920
       tappy_fish_ui_elements_11: 1965953871
-      tappy_fish_ui_elements_12: 2105566018
-      tappy_fish_ui_elements_13: -400219427
       tappy_fish_ui_elements_15: -1741844144
       tappy_fish_ui_elements_17: -1389059180
       tappy_fish_ui_elements_23: -1245734427
       tappy_fish_ui_elements_25: -1190463933
       tappy_fish_ui_elements_3: 637159361
       tappy_fish_ui_elements_4: -845661987
-      tappy_fish_ui_elements_5: -1172403051
-      tappy_fish_ui_elements_6: 1474659787
       tappy_fish_ui_elements_8: 506694303
       tappy_fish_ui_elements_9: 825761795
       tappyfish: 1134016537
