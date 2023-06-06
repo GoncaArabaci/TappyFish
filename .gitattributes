@@ -1,0 +1,2 @@
+*.cs linguist-language=C#
+LICENSE linguist-language=C# linguist-vendored
