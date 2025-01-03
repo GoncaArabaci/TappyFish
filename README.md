@@ -1,9 +1,10 @@
 # TappyFish
 
-![Ekran görüntüsü 2023-06-06 170546](https://github.com/user-attachments/assets/139e932c-8a48-4719-bb32-409b10499b94)
-![Ekran görüntüsü 2023-06-06 170629](https://github.com/user-attachments/assets/9794c3f4-a72a-4e41-b79a-d5bdf206f75b)
-![Ekran görüntüsü 2023-06-06 170748](https://github.com/user-attachments/assets/e8849e5e-d9a4-41c5-b076-0f83c032d5fb)
-![Ekran görüntüsü 2023-06-06 170813](https://github.com/user-attachments/assets/34623e18-511e-4522-b5ca-48178fe21d6d)
+![Ekran görüntüsü 2023-06-06 170629](https://github.com/user-attachments/assets/939f4153-dc24-4377-a89f-12b843100396)
+![Ekran görüntüsü 2023-06-06 170546](https://github.com/user-attachments/assets/279b3f3f-1464-4e92-b41e-d48b47158bd4)
+![Ekran görüntüsü 2023-06-06 170748](https://github.com/user-attachments/assets/9e3bdfa8-b1c1-4959-822b-e26e010f48a2)
+![Ekran görüntüsü 2023-06-06 170813](https://github.com/user-attachments/assets/c610a79d-6231-4b08-891e-5149d2210ebf)
+
 
 ## About the Game
 
